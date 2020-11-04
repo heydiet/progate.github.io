@@ -25,7 +25,9 @@ header {
 }
 header h1 {
   border: 1px solid;
+  float: left;
 }
 header ul {
   border: 1px solid;
+  float: right;
 }
