@@ -79,3 +79,9 @@ section {
 section h3 {
   text-align: center;
 }
+.about p {
+  color: #666;
+  padding: 25px 20px;
+  word-spacing: 2px;
+  line-height: 25px;
+}
