@@ -85,3 +85,9 @@ section h3 {
   word-spacing: 2px;
   line-height: 25px;
 }
+.menu {
+  background-color: #f9f9f9;
+}
+.box {
+  border: 1px solid;
+}
