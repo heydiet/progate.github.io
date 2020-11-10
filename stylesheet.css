@@ -65,5 +65,8 @@ header ul li a:hover {
   bottom: 0;
   background-color: rgba(20,143,119,.6);
 }
+section {
+  padding: 50px 0;
+}
 
 
