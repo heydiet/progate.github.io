@@ -91,3 +91,9 @@ section h3 {
 .box {
   border: 1px solid;
 }
+.box .col-4 {
+  width: 25%;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 1px solid;
+}
