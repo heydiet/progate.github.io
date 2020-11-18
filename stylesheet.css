@@ -97,3 +97,9 @@ section h3 {
   box-sizing: border-box;
   border: 1px solid;
 }
+.icon {
+  width: 70px;
+  height: 70px;
+  border: 1px solid;
+  border-radius: 50%;
+}
