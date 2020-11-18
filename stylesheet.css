@@ -92,8 +92,10 @@ section h3 {
 .box {
   border: 1px solid;
   float: left;
+  margin: 20px
 }
 .box .col-4 {
   border: 1px solid;
   float: left;
+  margin: 20px
 
