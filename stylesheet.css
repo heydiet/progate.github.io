@@ -87,10 +87,11 @@ section h3 {
 }
 .menu {
   background-color: #f9f9f9;
-  margin: 20px 0px;
+  margin: 20px;
 }
 .box {
   border: 1px solid;
   text-align: center;
+  float: left;
 }
 
