@@ -103,3 +103,6 @@ section h3 {
   border: 1px solid;
   border-radius: 50%;
 }
+.box .col-4 h4 {
+  margin:10px 0;
+}
